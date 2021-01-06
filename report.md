@@ -5,12 +5,11 @@
 На тестирование затрачено 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [ключи, которые заявлены как валидные: 80b427f8-92cd-3aae-ba04-3927fbe17c6 и 387eedc6-12e9-3b32-9881-63b6b5e85317 являются невалидными](https://github.com/helenkhim/fisthomework1.1/issues/1)
-* 15 значные номера карт системы American Express не валидны
-* 15 значные номра карт системы Amex Corporate  не валидны
-* 11 значные номера карт Dankort (PBS) не валидны
-* 14 значные номера карт Dinners Club не валидны
-* 13 значные номера карт Visa не валидны
+* [15 значные номера карт системы American Express не валидны](https://github.com/helenkhim/-java-1.2/issues/1)
+* [15 значные номера карт системы Amex Corporate  не валидны](https://github.com/helenkhim/-java-1.2/issues/2)
+* [11 значные номера карт Dankort (PBS) не валидны](https://github.com/helenkhim/-java-1.2/issues/3)
+* [14 значные номера карт Dinners Club не валидны](https://github.com/helenkhim/-java-1.2/issues/2)
+* [13 значные номера карт Visa не валидны](https://github.com/helenkhim/-java-1.2/issues/5)
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
